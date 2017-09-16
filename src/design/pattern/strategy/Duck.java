@@ -6,6 +6,7 @@ package design.pattern.strategy;
 public abstract class Duck {
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
+
     public Duck() {
     }
 
