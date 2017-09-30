@@ -1,1 +1,1 @@
-This will contain all the coding project from the book Head First Design Patterns.
+This will contain some of the coding examples from the book Head First Design Patterns.
